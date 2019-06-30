@@ -1,0 +1,22 @@
+{
+  "name": "githubuserapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "gh-pages -dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasheedshina22/githubUsersApp.git"
+  },
+  "author": "shina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rasheedshina22/githubUsersApp/issues"
+  },
+  "homepage": "https://github.com/rasheedshina22/githubUsersApp",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
